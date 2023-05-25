@@ -1,0 +1,50 @@
+[
+    {
+        "image":"/lifestylepage/read1.jpg",
+        "tag":"Interiors",
+        "heading":"Another Big Apartment Project Slated for Broad Ripple Company",
+        "date":"August, 2019"
+     },
+
+     {
+        "image":"/lifestylepage/read2.jpg",
+        "tag":"Interiors",
+        "heading":"Patricia Urquiola Coats Transparent Glas Tables for Livings",
+        "date":"August, 2019"
+     },
+     {
+        "image":"/right_components/video1.jpg",
+        "tag":"Interiors",
+        "heading":"Ambrose Seeks Offers on Downtown Building for Apartments",
+        "date":"August, 2019"
+     },
+     {
+        "image":"/right_components/video2.jpg",
+        "tag":"Interiors",
+        "heading":"Taina Blue Retreat is a Converted Tower on the Greek Coast",
+        "date":"August, 2019"
+     },
+     {
+        "image":"/newspage/news1.jpg",
+        "tag":"Interiors",
+        "heading":"Interior Designer and Maude Interiors by Yvonne Designs",
+        "date":"August, 2019"
+     },
+     {
+        "image":"/newspage/architecture7.jpg",
+        "tag":"Architecture",
+        "heading":"Modern Monochrome Home with Calm and Cosy Terrace and Steps"
+     },
+     {
+        "image":"/newspage/architecture8.jpg",
+        "tag":"Architecture",
+        "heading":"Scandinavian Boho Three-bed Decorated with Neutral Tones"
+     },
+     {
+        "image":"/newspage/architecture9.jpg",
+        "tag":"Architecture",
+        "heading":"Luxurious Four-Bedroom House with Roman Stone Bath House"
+     }
+
+     
+]
